@@ -11,9 +11,9 @@ TagManager:
   - Assets
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Background
+  - Tilemap
+  - Foreground
   - 
   - 
   - 
@@ -41,6 +41,8 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ladders
+    uniqueID: 681399123
   - name: Back
     uniqueID: 4226157141
     locked: 0
