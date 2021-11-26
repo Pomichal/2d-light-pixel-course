@@ -8,7 +8,7 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Assets
   - Water
   - UI
   - Background
@@ -43,4 +43,11 @@ TagManager:
     locked: 0
   - name: Ladders
     uniqueID: 681399123
+  - name: Back
+    uniqueID: 4226157141
+    locked: 0
+  - name: Assets
+    uniqueID: 1537952397
+  - name: Foreground
+    uniqueID: 1824211971
     locked: 0
