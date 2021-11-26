@@ -46,4 +46,6 @@ TagManager:
     locked: 0
   - name: Assets
     uniqueID: 1537952397
+  - name: Foreground
+    uniqueID: 1824211971
     locked: 0
